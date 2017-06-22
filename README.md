@@ -7,9 +7,10 @@ Version 1:
 Classic scored mode
 
 Version 2 has:
--Difficulty levels(Easy/Medium/Hard)
--Restart option
--Undo button
+
+    -Difficulty levels(Easy/Medium/Hard)
+    -Restart option
+    -Undo button
 
 Commands are as follow:
 
