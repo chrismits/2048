@@ -1,5 +1,4 @@
 # 2048
-Comp11 Final Project
 
 This is my C++ implementation of the mobile hit puzzle game 2048. There are two versions of this project.
 
