@@ -1,15 +1,3 @@
-/*******************************
-* COMP 11 Spring 2017
-* Homework 7
-* Extra Credit
-* Christos-Nikolaos Mitsopoulos
-********************************/
-
-/************Extra Credit*************
-* Added a restart option (press 'r')
-* Added difficulty levels
-* Added an undo button
-*************************************/
 
 #include <iostream>
 #include "BoardExtra.h"
