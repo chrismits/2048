@@ -1,10 +1,4 @@
-/*******************************
-* COMP 11 Spring 2017
-* Homework 6
-* Christos-Nikolaos Mitsopoulos
-* Signoff by [Laney Strange] [04/11/2017]
-* EXTRA CREDIT
-********************************/
+
 
 #include <iostream>
 #include <fstream>
