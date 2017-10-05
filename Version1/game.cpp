@@ -1,8 +1,3 @@
-/*******************************
-* COMP 11 Spring 2017
-* Homework 7
-* Christos-Nikolaos Mitsopoulos
-********************************/
 
 #include <iostream>
 #include <fstream>
