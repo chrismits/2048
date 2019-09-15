@@ -1,6 +1,6 @@
 # 2048
 
-This is my C++ implementation of the mobile hit puzzle game 2048. There are two versions of this project.
+This is my command-line implementation of the mobile hit puzzle game 2048. There are two versions of this project.
 
 Version 1:
 Classic scored mode
